@@ -1,0 +1,54 @@
+total,rank,rankEqual,sortRank,rankTotal,rankTotalEqual,sortRankTotal,org,organisation.code,organisation.description,organisation.longDescription,organisation.protocolOrder,organisation.descriptionOrder,organisation.longDescriptionOrder,Country,Gold,Silver,Bronze,Total,lexicographic_order
+43,4,N,4,1,N,1,USA,USA,United States,United States of America,66,2190,2200,USA,9,18,16,43,1
+36,2,N,2,2,N,2,FRA,FRA,France,France,70,730,740,FRA,11,12,13,36,2
+30,1,N,1,3,N,3,CHN,CHN,China,People's Republic of China,41,430,1600,CHN,13,8,9,30,3
+27,5,N,5,4,N,4,GBR,GBR,Great Britain,Great Britain,75,810,810,GBR,9,10,8,27,4
+22,3,N,3,5,N,5,AUS,AUS,Australia,Australia,13,120,120,AUS,11,6,5,22,5
+18,6,N,6,6,N,6,JPN,JPN,Japan,Japan,97,1040,1040,JPN,8,4,6,18,6
+17,8,N,8,7,N,7,ITA,ITA,Italy,Italy,95,1020,1020,ITA,5,8,4,17,7
+16,7,N,7,8,N,8,KOR,KOR,Korea,Republic of Korea,49,1100,1690,KOR,7,5,4,16,8
+11,10,N,10,9,N,9,CAN,CAN,Canada,Canada,37,380,380,CAN,3,2,6,11,9
+9,9,N,9,10,N,10,NED,NED,Netherlands,Netherlands,150,1450,1430,NED,4,3,2,9,10
+7,19,N,19,11,Y,12,BRA,BRA,Brazil,Brazil,29,300,300,BRA,1,3,3,7,12
+7,11,N,11,11,Y,11,GER,GER,Germany,Germany,5,790,790,GER,2,3,2,7,11
+6,22,N,22,13,Y,15,SUI,SUI,Switzerland,Switzerland,180,2000,2010,SUI,1,1,4,6,15
+6,12,Y,13,13,Y,14,ROU,ROU,Romania,Romania,158,1710,1730,ROU,2,3,1,6,14
+6,12,Y,12,13,Y,13,NZL,NZL,New Zealand,New Zealand,140,1470,1450,NZL,2,3,1,6,13
+5,14,N,14,16,Y,16,HUN,HUN,Hungary,Hungary,87,920,920,HUN,2,2,1,5,16
+5,23,N,23,16,Y,18,ESP,ESP,Spain,Spain,63,1930,1950,ESP,1,1,3,5,18
+5,20,N,20,16,Y,17,SWE,SWE,Sweden,Sweden,179,1990,2000,SWE,1,2,2,5,17
+4,37,Y,38,19,Y,23,POL,POL,Poland,Poland,153,1640,1630,POL,0,1,3,4,23
+4,37,Y,37,19,Y,22,GRE,GRE,Greece,Greece,76,820,820,GRE,0,1,3,4,22
+4,15,Y,15,19,Y,19,HKG,HKG,"Hong Kong, China","Hong Kong, China",86,910,910,HKG,2,0,2,4,19
+4,24,N,24,19,Y,21,RSA,RSA,South Africa,South Africa,2,1910,1930,RSA,1,1,2,4,21
+4,15,Y,16,19,Y,20,IRL,IRL,Ireland,Ireland,92,1000,990,IRL,2,0,2,4,20
+3,34,Y,35,24,Y,30,MEX,MEX,Mexico,Mexico,125,1330,1320,MEX,0,2,1,3,30
+3,25,Y,26,24,Y,27,KAZ,KAZ,Kazakhstan,Kazakhstan,99,1060,1060,KAZ,1,0,2,3,27
+3,25,Y,27,24,Y,28,UZB,UZB,Uzbekistan,Uzbekistan,143,2220,2230,UZB,1,0,2,3,28
+3,34,Y,34,24,Y,29,ISR,ISR,Israel,Israel,94,1010,1010,ISR,0,2,1,3,29
+3,46,N,46,24,Y,31,IND,IND,India,India,88,940,960,IND,0,0,3,3,31
+3,21,N,21,24,Y,25,GEO,GEO,Georgia,Georgia,73,770,770,GEO,1,2,0,3,25
+3,25,Y,25,24,Y,26,BEL,BEL,Belgium,Belgium,21,200,200,BEL,1,0,2,3,26
+3,17,N,17,24,Y,24,CRO,CRO,Croatia,Croatia,52,510,500,CRO,2,0,1,3,24
+2,28,N,28,32,Y,33,GUA,GUA,Guatemala,Guatemala,79,850,850,GUA,1,0,1,2,33
+2,39,Y,39,32,Y,35,KOS,KOS,Kosovo,Kosovo,103,1110,1100,KOS,0,1,1,2,35
+2,47,Y,47,32,Y,38,MDA,MDA,Republic of Moldova,Republic of Moldova,127,1680,1700,MDA,0,0,2,2,38
+2,18,N,18,32,Y,32,AZE,AZE,Azerbaijan,Azerbaijan,15,140,140,AZE,2,0,0,2,32
+2,39,Y,41,32,Y,37,UKR,UKR,Ukraine,Ukraine,197,2160,2150,UKR,0,1,1,2,37
+2,39,Y,40,32,Y,36,TUR,TUR,Türkiye,Türkiye,195,2110,2110,TUR,0,1,1,2,36
+2,47,Y,48,32,Y,39,TJK,TJK,Tajikistan,Tajikistan,183,2020,2030,TJK,0,0,2,2,39
+2,36,N,36,32,Y,34,PRK,PRK,DPR Korea,Democratic People's Republic of Korea,157,600,550,PRK,0,2,0,2,34
+1,29,Y,33,40,Y,44,UGA,UGA,Uganda,Uganda,142,2150,2140,UGA,1,0,0,1,44
+1,42,Y,45,40,Y,48,TUN,TUN,Tunisia,Tunisia,193,2100,2100,TUN,0,1,0,1,48
+1,49,Y,49,40,Y,49,AUT,AUT,Austria,Austria,14,130,130,AUT,0,0,1,1,49
+1,49,Y,53,40,Y,53,SVK,SVK,Slovakia,Slovakia,173,1870,1890,SVK,0,0,1,1,53
+1,49,Y,50,40,Y,50,CZE,CZE,Czechia,Czechia,187,540,530,CZE,0,0,1,1,50
+1,29,Y,32,40,Y,43,SRB,SRB,Serbia,Serbia,169,1820,1840,SRB,1,0,0,1,43
+1,29,Y,31,40,Y,42,SLO,SLO,Slovenia,Slovenia,174,1880,1900,SLO,1,0,0,1,42
+1,49,Y,52,40,Y,52,POR,POR,Portugal,Portugal,155,1650,1640,POR,0,0,1,1,52
+1,29,Y,30,40,Y,41,ECU,ECU,Ecuador,Ecuador,61,620,620,ECU,1,0,0,1,41
+1,49,Y,51,40,Y,51,EGY,EGY,Egypt,Egypt,58,630,630,EGY,0,0,1,1,51
+1,42,Y,42,40,Y,45,ETH,ETH,Ethiopia,Ethiopia,67,700,690,ETH,0,1,0,1,45
+1,42,Y,44,40,Y,47,MGL,MGL,Mongolia,Mongolia,129,1370,1350,MGL,0,1,0,1,47
+1,42,Y,43,40,Y,46,FIJ,FIJ,Fiji,Fiji,68,710,720,FIJ,0,1,0,1,46
+1,29,Y,29,40,Y,40,ARG,ARG,Argentina,Argentina,10,80,80,ARG,1,0,0,1,40
