@@ -44,6 +44,10 @@ def country_acronym_to_flag(acronym):
         "ISR": "IL",
         "HKG": "HK",
         "GEO": "GE",
+        "UKR": "UA",
+        "CRO": "HR",
+        "PHI": "PH",
+        "UZB": "UZ",
     }
     # Convert the acronym using the mapping dictionary
     standard_acronym = mapping.get(acronym, acronym)

@@ -90,9 +90,9 @@ def main():
     df, fin_enquete = load_data()
 
     if not verify_medal_sum(df):
-        print("Warning: Medal sum verification failed")
+        raise ValueError("Warning: Medal sum verification failed")
 
-    MIN_MEDALS = 5
+    MIN_MEDALS = 20
 
     df = filter_countries(df, MIN_MEDALS)
     df_mj = create_mj_dataframe(df, fin_enquete)

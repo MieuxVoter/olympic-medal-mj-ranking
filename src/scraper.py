@@ -1,3 +1,5 @@
+from wave import Error
+
 import requests
 import pandas as pd
 from datetime import datetime, timedelta
@@ -19,17 +21,13 @@ def scrap_olympic_data():
         response.raise_for_status()  # Raise HTTPError for bad responses (4xx and 5xx)
         data = response.json()       # Parse JSON if request was successful
     except requests.exceptions.HTTPError as errh:
-        print("HTTP Error:", errh)
+        raise RuntimeError("HTTP Error:", errh)
     except requests.exceptions.ConnectionError as errc:
-        print("Error Connecting:", errc)
+        raise RuntimeError("Error Connecting:", errc)
     except requests.exceptions.Timeout as errt:
-        print("Timeout Error:", errt)
+        raise RuntimeError("Timeout Error:", errt)
     except requests.exceptions.RequestException as err:
-        print("Something went wrong with the request:", err)
-    else:
-        # Step 2: Convert JSON data to a DataFrame if no exceptions were raised
-        df = pd.DataFrame(data)
-        print(df.head())  # Display the first few rows of the DataFrame to verify
+        raise RuntimeError("Something went wrong with the request:", err)
 
     # Step 2: Parse the JSON data
     # The relevant part of the JSON is under the key 'medalNOC'
@@ -65,9 +63,7 @@ def scrap_olympic_data():
     # reoganize columns by total amount of medals
     df = df.sort_values(by=["Total"], ascending=False)
 
-    # Step 5: Save the DataFrame to a CSV file
-    time_date_suffix_canadian_time = datetime.now().strftime("%Y%m%d_%Hh")
-    # add 6 hours
+    # add 6 hours because I'm in Canada when coding this project
     time_date_suffix_french_time = (datetime.now() + timedelta(hours=6)).strftime("%Y%m%d_%Hh")
 
     df.to_csv(f"{PATH}/medal_data_{time_date_suffix_french_time}.csv", index=False)
