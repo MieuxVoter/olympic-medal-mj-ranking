@@ -1,0 +1,74 @@
+total,rank,rankEqual,sortRank,rankTotal,rankTotalEqual,sortRankTotal,org,organisation.code,organisation.description,organisation.longDescription,organisation.protocolOrder,organisation.descriptionOrder,organisation.longDescriptionOrder,Country,Gold,Silver,Bronze,Total,lexicographic_order
+79,2,N,2,1,N,1,USA,USA,United States,United States of America,66,2190,2200,USA 🇺🇸,21,30,28,79,1
+55,1,N,1,2,N,2,CHN,CHN,China,People's Republic of China,41,430,1600,CHN 🇨🇳,22,19,14,55,2
+48,3,N,3,3,N,3,FRA,FRA,France,France,70,730,740,FRA 🇫🇷,13,16,19,48,3
+42,5,N,5,4,N,4,GBR,GBR,Great Britain,Great Britain,75,810,810,GBR 🇬🇧,12,13,17,42,4
+33,4,N,4,5,N,5,AUS,AUS,Australia,Australia,13,120,120,AUS 🇦🇺,13,12,8,33,5
+26,6,N,6,6,Y,6,KOR,KOR,Korea,Republic of Korea,49,1100,1690,KOR 🇰🇷,11,8,7,26,6
+26,7,N,7,6,Y,7,JPN,JPN,Japan,Japan,97,1040,1040,JPN 🇯🇵,10,5,11,26,7
+25,8,N,8,8,N,8,ITA,ITA,Italy,Italy,95,1020,1020,ITA 🇮🇹,9,10,6,25,8
+18,10,N,10,9,N,9,NED,NED,Netherlands,Netherlands,150,1450,1430,NED 🇳🇱,7,5,6,18,9
+17,11,N,11,10,Y,11,CAN,CAN,Canada,Canada,37,380,380,CAN 🇨🇦,5,4,8,17,11
+17,9,N,9,10,Y,10,GER,GER,Germany,Germany,5,790,790,GER 🇩🇪,8,5,4,17,10
+13,17,N,17,12,N,12,BRA,BRA,Brazil,Brazil,29,300,300,BRA 🇧🇷,2,5,6,13,12
+9,26,N,26,13,Y,14,ESP,ESP,Spain,Spain,63,1930,1950,ESP 🇪🇸,1,3,5,9,14
+9,12,N,12,13,Y,13,NZL,NZL,New Zealand,New Zealand,140,1470,1450,NZL 🇳🇿,3,5,1,9,13
+8,13,Y,14,15,Y,16,SWE,SWE,Sweden,Sweden,179,1990,2000,SWE 🇸🇪,3,3,2,8,16
+8,13,Y,13,15,Y,15,HUN,HUN,Hungary,Hungary,87,920,920,HUN 🇭🇺,3,3,2,8,15
+7,27,N,27,17,Y,19,SUI,SUI,Switzerland,Switzerland,180,2000,2010,SUI 🇨🇭,1,2,4,7,19
+7,15,N,15,17,Y,17,ROU,ROU,Romania,Romania,158,1710,1730,ROU 🇷🇴,3,3,1,7,17
+7,18,N,18,17,Y,18,UKR,UKR,Ukraine,Ukraine,197,2160,2150,UKR 🇺🇦,2,2,3,7,18
+6,50,N,50,20,Y,22,GRE,GRE,Greece,Greece,76,820,820,GRE 🇬🇷,0,1,5,6,22
+6,25,N,25,20,Y,21,ISR,ISR,Israel,Israel,94,1010,1010,ISR 🇮🇱,1,4,1,6,21
+6,16,N,16,20,Y,20,IRL,IRL,Ireland,Ireland,92,1000,990,IRL 🇮🇪,3,0,3,6,20
+5,19,N,19,23,Y,23,CRO,CRO,Croatia,Croatia,52,510,500,CRO 🇭🇷,2,1,2,5,23
+5,20,N,20,23,Y,24,BEL,BEL,Belgium,Belgium,21,200,200,BEL 🇧🇪,2,0,3,5,24
+4,46,N,46,25,Y,30,PRK,PRK,DPR Korea,Democratic People's Republic of Korea,157,600,550,PRK 🇵🇷🇰,0,2,2,4,30
+4,29,Y,30,25,Y,28,RSA,RSA,South Africa,South Africa,2,1910,1930,RSA 🇷🇸🇦,1,1,2,4,28
+4,28,N,28,25,Y,26,GEO,GEO,Georgia,Georgia,73,770,770,GEO 🇬🇪,1,2,1,4,26
+4,29,Y,29,25,Y,27,KAZ,KAZ,Kazakhstan,Kazakhstan,99,1060,1060,KAZ 🇰🇦🇿,1,1,2,4,27
+4,21,N,21,25,Y,25,HKG,HKG,"Hong Kong, China","Hong Kong, China",86,910,910,HKG 🇭🇰,2,0,2,4,25
+4,33,N,33,25,Y,29,TPE,TPE,Chinese Taipei,Chinese Taipei,184,2080,2080,TPE 🇹🇵🇪,1,0,3,4,29
+4,51,N,51,25,Y,31,POL,POL,Poland,Poland,153,1640,1630,POL 🇵🇱,0,1,3,4,31
+3,47,Y,48,32,Y,35,MEX,MEX,Mexico,Mexico,125,1330,1320,MEX 🇲🇽,0,2,1,3,35
+3,31,N,31,32,Y,32,KEN,KEN,Kenya,Kenya,100,1070,1070,KEN 🇰🇪🇳,1,1,1,3,32
+3,60,Y,61,32,Y,37,TJK,TJK,Tajikistan,Tajikistan,183,2020,2030,TJK 🇹🇯🇰,0,0,3,3,37
+3,47,Y,47,32,Y,34,JAM,JAM,Jamaica,Jamaica,96,1030,1030,JAM 🇯🇦🇲,0,2,1,3,34
+3,34,N,34,32,Y,33,UZB,UZB,Uzbekistan,Uzbekistan,143,2220,2230,UZB 🇺🇿🇧,1,0,2,3,33
+3,60,Y,60,32,Y,36,IND,IND,India,India,88,940,960,IND 🇮🇳🇩,0,0,3,3,36
+2,52,Y,53,38,Y,46,TUR,TUR,Türkiye,Türkiye,195,2110,2110,TUR 🇹🇷,0,1,1,2,46
+2,22,Y,23,38,Y,39,PHI,PHI,Philippines,Philippines,152,1630,1620,PHI 🇵🇭🇮,2,0,0,2,39
+2,22,Y,22,38,Y,38,AZE,AZE,Azerbaijan,Azerbaijan,15,140,140,AZE 🇦🇿🇪,2,0,0,2,38
+2,22,Y,24,38,Y,40,SRB,SRB,Serbia,Serbia,169,1820,1840,SRB 🇷🇸,2,0,0,2,40
+2,62,Y,65,38,Y,50,MDA,MDA,Republic of Moldova,Republic of Moldova,127,1680,1700,MDA 🇲🇩🇦,0,0,2,2,50
+2,62,Y,64,38,Y,49,MAS,MAS,Malaysia,Malaysia,116,1260,1250,MAS 🇲🇦🇸,0,0,2,2,49
+2,62,Y,63,38,Y,48,LTU,LTU,Lithuania,Lithuania,112,1210,1200,LTU 🇱🇹🇺,0,0,2,2,48
+2,62,Y,62,38,Y,47,DOM,DOM,Dominican Republic,Dominican Republic,56,590,610,DOM 🇩🇴🇲,0,0,2,2,47
+2,52,Y,52,38,Y,45,KOS,KOS,Kosovo,Kosovo,103,1110,1100,KOS 🇰🇴🇸,0,1,1,2,45
+2,49,N,49,38,Y,44,ETH,ETH,Ethiopia,Ethiopia,67,700,690,ETH 🇪🇹🇭,0,2,0,2,44
+2,32,N,32,38,Y,41,DEN,DEN,Denmark,Denmark,54,560,580,DEN 🇩🇰,1,1,0,2,41
+2,35,Y,35,38,Y,42,CZE,CZE,Czechia,Czechia,187,540,530,CZE 🇨🇿,1,0,1,2,42
+2,35,Y,36,38,Y,43,GUA,GUA,Guatemala,Guatemala,79,850,850,GUA 🇬🇺🇦,1,0,1,2,43
+1,54,Y,55,51,Y,61,COL,COL,Colombia,Colombia,43,450,430,COL 🇨🇴,0,1,0,1,61
+1,66,Y,73,51,Y,73,SVK,SVK,Slovakia,Slovakia,173,1870,1890,SVK 🇸🇻🇰,0,0,1,1,73
+1,37,Y,38,51,Y,52,ARG,ARG,Argentina,Argentina,10,80,80,ARG 🇦🇷,1,0,0,1,52
+1,54,Y,59,51,Y,65,TUN,TUN,Tunisia,Tunisia,193,2100,2100,TUN 🇹🇺🇳,0,1,0,1,65
+1,54,Y,58,51,Y,64,THA,THA,Thailand,Thailand,188,2040,2040,THA 🇹🇭,0,1,0,1,64
+1,37,Y,39,51,Y,53,CHI,CHI,Chile,Chile,40,420,420,CHI 🇨🇭🇮,1,0,0,1,53
+1,37,Y,45,51,Y,59,UGA,UGA,Uganda,Uganda,142,2150,2140,UGA 🇺🇬🇦,1,0,0,1,59
+1,66,Y,66,51,Y,66,AUT,AUT,Austria,Austria,14,130,130,AUT 🇦🇹,0,0,1,1,66
+1,54,Y,54,51,Y,60,ARM,ARM,Armenia,Armenia,11,90,90,ARM 🇦🇷🇲,0,1,0,1,60
+1,66,Y,67,51,Y,67,CPV,CPV,Cabo Verde,Cabo Verde,38,350,350,CPV 🇨🇵🇻,0,0,1,1,67
+1,37,Y,40,51,Y,54,DMA,DMA,Dominica,Dominica,57,580,600,DMA 🇩🇲🇦,1,0,0,1,54
+1,37,Y,44,51,Y,58,SLO,SLO,Slovenia,Slovenia,174,1880,1900,SLO 🇸🇱🇴,1,0,0,1,58
+1,66,Y,68,51,Y,68,CUB,CUB,Cuba,Cuba,53,520,510,CUB 🇨🇺🇧,0,0,1,1,68
+1,66,Y,72,51,Y,72,POR,POR,Portugal,Portugal,155,1650,1640,POR 🇵🇹,0,0,1,1,72
+1,37,Y,43,51,Y,57,NOR,NOR,Norway,Norway,139,1530,1510,NOR 🇳🇴,1,0,0,1,57
+1,37,Y,41,51,Y,55,ECU,ECU,Ecuador,Ecuador,61,620,620,ECU 🇪🇨🇺,1,0,0,1,55
+1,54,Y,57,51,Y,63,MGL,MGL,Mongolia,Mongolia,129,1370,1350,MGL 🇲🇬🇱,0,1,0,1,63
+1,66,Y,69,51,Y,69,EGY,EGY,Egypt,Egypt,58,630,630,EGY 🇪🇬,0,0,1,1,69
+1,37,Y,42,51,Y,56,LCA,LCA,Saint Lucia,Saint Lucia,161,1760,1780,LCA 🇱🇨🇦,1,0,0,1,56
+1,54,Y,56,51,Y,62,FIJ,FIJ,Fiji,Fiji,68,710,720,FIJ 🇫🇮🇯,0,1,0,1,62
+1,66,Y,70,51,Y,70,GRN,GRN,Grenada,Grenada,77,830,830,GRN 🇬🇷🇳,0,0,1,1,70
+1,66,Y,71,51,Y,71,INA,INA,Indonesia,Indonesia,89,950,970,INA 🇮🇳🇦,0,0,1,1,71
+1,37,Y,37,51,Y,51,ALG,ALG,Algeria,Algeria,4,30,30,ALG 🇦🇱🇬,1,0,0,1,51
